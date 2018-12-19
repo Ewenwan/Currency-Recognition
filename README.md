@@ -1,4 +1,4 @@
-# [Currency Recognition](http://carlosmccosta.github.io/Currency-Recognition/)
+# [ 货币识别  Currency Recognition](http://carlosmccosta.github.io/Currency-Recognition/)
 
 
 ## Overview
